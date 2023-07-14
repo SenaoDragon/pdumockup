@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/pdumockup/static/css/main.fc984ab8.chunk.css",
+    "main.js": "/pdumockup/static/js/main.867ff39c.chunk.js",
+    "runtime-main.js": "/pdumockup/static/js/runtime-main.390ddfa3.js",
+    "static/css/2.ac56cf77.chunk.css": "/pdumockup/static/css/2.ac56cf77.chunk.css",
+    "static/js/2.4ee0e8fb.chunk.js": "/pdumockup/static/js/2.4ee0e8fb.chunk.js",
+    "index.html": "/pdumockup/index.html",
+    "precache-manifest.b1691a7bafaa3d15b775cf68be5ad1b0.js": "/pdumockup/precache-manifest.b1691a7bafaa3d15b775cf68be5ad1b0.js",
+    "service-worker.js": "/pdumockup/service-worker.js",
+    "static/js/2.4ee0e8fb.chunk.js.LICENSE.txt": "/pdumockup/static/js/2.4ee0e8fb.chunk.js.LICENSE.txt",
+    "static/js/main.867ff39c.chunk.js.LICENSE.txt": "/pdumockup/static/js/main.867ff39c.chunk.js.LICENSE.txt",
+    "static/media/adaptor.b61c8dc7.svg": "/pdumockup/static/media/adaptor.b61c8dc7.svg",
+    "static/media/analyze.svg": "/pdumockup/static/media/analyze.338be757.svg",
+    "static/media/angle-up.60d89147.svg": "/pdumockup/static/media/angle-up.60d89147.svg",
+    "static/media/ap.23e96553.svg": "/pdumockup/static/media/ap.23e96553.svg",
+    "static/media/brandLogo.svg": "/pdumockup/static/media/brandLogo.1a73cb75.svg",
+    "static/media/circlereset.0114bb7b.svg": "/pdumockup/static/media/circlereset.0114bb7b.svg",
+    "static/media/diagSwitch.e1928c56.svg": "/pdumockup/static/media/diagSwitch.e1928c56.svg",
+    "static/media/errorboundary.svg": "/pdumockup/static/media/errorboundary.f0a0e582.svg",
+    "static/media/loginECP106.4d20e219.svg": "/pdumockup/static/media/loginECP106.4d20e219.svg",
+    "static/media/loginECP214.e30e592a.svg": "/pdumockup/static/media/loginECP214.e30e592a.svg",
+    "static/media/monitor.5c3c6f1f.svg": "/pdumockup/static/media/monitor.5c3c6f1f.svg",
+    "static/media/outlet.e167465c.svg": "/pdumockup/static/media/outlet.e167465c.svg",
+    "static/media/outletBase.93a68a06.svg": "/pdumockup/static/media/outletBase.93a68a06.svg",
+    "static/media/outletIcon.54393642.svg": "/pdumockup/static/media/outletIcon.54393642.svg",
+    "static/media/phone.5e6fb68d.svg": "/pdumockup/static/media/phone.5e6fb68d.svg",
+    "static/media/printer.397703c1.svg": "/pdumockup/static/media/printer.397703c1.svg",
+    "static/media/reset.4e133780.svg": "/pdumockup/static/media/reset.4e133780.svg",
+    "static/media/index.css": "/pdumockup/static/media/roboto-latin-900italic.ebf6d164.woff2",
+    "static/media/router.87781f06.svg": "/pdumockup/static/media/router.87781f06.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.390ddfa3.js",
+    "static/css/2.ac56cf77.chunk.css",
+    "static/js/2.4ee0e8fb.chunk.js",
+    "static/css/main.fc984ab8.chunk.css",
+    "static/js/main.867ff39c.chunk.js"
+  ]
+}
