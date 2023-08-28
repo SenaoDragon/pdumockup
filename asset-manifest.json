@@ -1,25 +1,23 @@
 {
   "files": {
     "main.css": "/pdumockup/static/css/main.fc984ab8.chunk.css",
-    "main.js": "/pdumockup/static/js/main.e8d0aca1.chunk.js",
+    "main.js": "/pdumockup/static/js/main.95deb942.chunk.js",
     "runtime-main.js": "/pdumockup/static/js/runtime-main.390ddfa3.js",
     "static/css/2.ac56cf77.chunk.css": "/pdumockup/static/css/2.ac56cf77.chunk.css",
     "static/js/2.3ace06e2.chunk.js": "/pdumockup/static/js/2.3ace06e2.chunk.js",
     "index.html": "/pdumockup/index.html",
-    "precache-manifest.5c1e7d531c5ade6dc8bf8abf0064333c.js": "/pdumockup/precache-manifest.5c1e7d531c5ade6dc8bf8abf0064333c.js",
+    "precache-manifest.f10537f4d1be166f562a1eeac879f3ff.js": "/pdumockup/precache-manifest.f10537f4d1be166f562a1eeac879f3ff.js",
     "service-worker.js": "/pdumockup/service-worker.js",
     "static/js/2.3ace06e2.chunk.js.LICENSE.txt": "/pdumockup/static/js/2.3ace06e2.chunk.js.LICENSE.txt",
-    "static/js/main.e8d0aca1.chunk.js.LICENSE.txt": "/pdumockup/static/js/main.e8d0aca1.chunk.js.LICENSE.txt",
+    "static/js/main.95deb942.chunk.js.LICENSE.txt": "/pdumockup/static/js/main.95deb942.chunk.js.LICENSE.txt",
     "static/media/adaptor.b61c8dc7.svg": "/pdumockup/static/media/adaptor.b61c8dc7.svg",
     "static/media/analyze.svg": "/pdumockup/static/media/analyze.338be757.svg",
     "static/media/angle-up.60d89147.svg": "/pdumockup/static/media/angle-up.60d89147.svg",
     "static/media/ap.23e96553.svg": "/pdumockup/static/media/ap.23e96553.svg",
-    "static/media/brandLogo.svg": "/pdumockup/static/media/brandLogo.1a73cb75.svg",
+    "static/media/brandLogo.svg": "/pdumockup/static/media/brandLogo.71a2d2f2.svg",
     "static/media/circlereset.0114bb7b.svg": "/pdumockup/static/media/circlereset.0114bb7b.svg",
     "static/media/diagSwitch.e1928c56.svg": "/pdumockup/static/media/diagSwitch.e1928c56.svg",
     "static/media/errorboundary.svg": "/pdumockup/static/media/errorboundary.f0a0e582.svg",
-    "static/media/loginECP106.4d20e219.svg": "/pdumockup/static/media/loginECP106.4d20e219.svg",
-    "static/media/loginECP214.e30e592a.svg": "/pdumockup/static/media/loginECP214.e30e592a.svg",
     "static/media/monitor.5c3c6f1f.svg": "/pdumockup/static/media/monitor.5c3c6f1f.svg",
     "static/media/outlet.e167465c.svg": "/pdumockup/static/media/outlet.e167465c.svg",
     "static/media/outletBase.93a68a06.svg": "/pdumockup/static/media/outletBase.93a68a06.svg",
@@ -35,6 +33,6 @@
     "static/css/2.ac56cf77.chunk.css",
     "static/js/2.3ace06e2.chunk.js",
     "static/css/main.fc984ab8.chunk.css",
-    "static/js/main.e8d0aca1.chunk.js"
+    "static/js/main.95deb942.chunk.js"
   ]
 }

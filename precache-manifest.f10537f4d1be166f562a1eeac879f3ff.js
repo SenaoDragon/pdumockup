@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "99765c1cc725c90632b1f05c63bd1581",
+    "revision": "ff0069fd947c2e5a07665e1f83910258",
     "url": "/pdumockup/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pdumockup/static/css/2.ac56cf77.chunk.css"
   },
   {
-    "revision": "7868bd9acab14f196451",
+    "revision": "a093ce7834e8c4588bae",
     "url": "/pdumockup/static/css/main.fc984ab8.chunk.css"
   },
   {
@@ -20,12 +20,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pdumockup/static/js/2.3ace06e2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7868bd9acab14f196451",
-    "url": "/pdumockup/static/js/main.e8d0aca1.chunk.js"
+    "revision": "a093ce7834e8c4588bae",
+    "url": "/pdumockup/static/js/main.95deb942.chunk.js"
   },
   {
     "revision": "a9343404dcaa1d2465c77391834ce744",
-    "url": "/pdumockup/static/js/main.e8d0aca1.chunk.js.LICENSE.txt"
+    "url": "/pdumockup/static/js/main.95deb942.chunk.js.LICENSE.txt"
   },
   {
     "revision": "47e9f6732a3fcad17e5b",
@@ -48,8 +48,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pdumockup/static/media/ap.23e96553.svg"
   },
   {
-    "revision": "1a73cb75b98dd822851867a73ca6260d",
-    "url": "/pdumockup/static/media/brandLogo.1a73cb75.svg"
+    "revision": "71a2d2f2e7dbf0b341c9b66ad517b4fa",
+    "url": "/pdumockup/static/media/brandLogo.71a2d2f2.svg"
   },
   {
     "revision": "0114bb7bbb759e42d64b21fbc3ce6441",
@@ -62,14 +62,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f0a0e582ccb2b4ee5c8163c61e16358a",
     "url": "/pdumockup/static/media/errorboundary.f0a0e582.svg"
-  },
-  {
-    "revision": "4d20e2199f9ded1ac5635b868fbae4ac",
-    "url": "/pdumockup/static/media/loginECP106.4d20e219.svg"
-  },
-  {
-    "revision": "e30e592ae6fd75a28e396fb25a58ee33",
-    "url": "/pdumockup/static/media/loginECP214.e30e592a.svg"
   },
   {
     "revision": "5c3c6f1f3ec9bdf559d98942d6c09a8a",
