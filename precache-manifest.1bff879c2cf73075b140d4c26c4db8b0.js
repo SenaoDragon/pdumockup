@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c81ba784fe901e52b330f1b3b16bd5aa",
+    "revision": "dbb871659841dd47b3684ed8326bc9e3",
     "url": "/pdumockup/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pdumockup/static/css/2.ac56cf77.chunk.css"
   },
   {
-    "revision": "9cbb44114da45b391a0e",
-    "url": "/pdumockup/static/css/main.fc984ab8.chunk.css"
+    "revision": "1a6dae0da4b4731579e3",
+    "url": "/pdumockup/static/css/main.472e1cf0.chunk.css"
   },
   {
     "revision": "0492f862af30c9f36097",
@@ -20,12 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pdumockup/static/js/2.3ace06e2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9cbb44114da45b391a0e",
-    "url": "/pdumockup/static/js/main.af7e2203.chunk.js"
-  },
-  {
-    "revision": "a9343404dcaa1d2465c77391834ce744",
-    "url": "/pdumockup/static/js/main.af7e2203.chunk.js.LICENSE.txt"
+    "revision": "1a6dae0da4b4731579e3",
+    "url": "/pdumockup/static/js/main.af856a52.chunk.js"
   },
   {
     "revision": "47e9f6732a3fcad17e5b",

@@ -1,15 +1,14 @@
 {
   "files": {
-    "main.css": "/pdumockup/static/css/main.fc984ab8.chunk.css",
-    "main.js": "/pdumockup/static/js/main.af7e2203.chunk.js",
+    "main.css": "/pdumockup/static/css/main.472e1cf0.chunk.css",
+    "main.js": "/pdumockup/static/js/main.af856a52.chunk.js",
     "runtime-main.js": "/pdumockup/static/js/runtime-main.390ddfa3.js",
     "static/css/2.ac56cf77.chunk.css": "/pdumockup/static/css/2.ac56cf77.chunk.css",
     "static/js/2.3ace06e2.chunk.js": "/pdumockup/static/js/2.3ace06e2.chunk.js",
     "index.html": "/pdumockup/index.html",
-    "precache-manifest.1dce859ff93eaaf3a438535d3d4aa8be.js": "/pdumockup/precache-manifest.1dce859ff93eaaf3a438535d3d4aa8be.js",
+    "precache-manifest.1bff879c2cf73075b140d4c26c4db8b0.js": "/pdumockup/precache-manifest.1bff879c2cf73075b140d4c26c4db8b0.js",
     "service-worker.js": "/pdumockup/service-worker.js",
     "static/js/2.3ace06e2.chunk.js.LICENSE.txt": "/pdumockup/static/js/2.3ace06e2.chunk.js.LICENSE.txt",
-    "static/js/main.af7e2203.chunk.js.LICENSE.txt": "/pdumockup/static/js/main.af7e2203.chunk.js.LICENSE.txt",
     "static/media/adaptor.b61c8dc7.svg": "/pdumockup/static/media/adaptor.b61c8dc7.svg",
     "static/media/analyze.svg": "/pdumockup/static/media/analyze.338be757.svg",
     "static/media/angle-up.60d89147.svg": "/pdumockup/static/media/angle-up.60d89147.svg",
@@ -32,7 +31,7 @@
     "static/js/runtime-main.390ddfa3.js",
     "static/css/2.ac56cf77.chunk.css",
     "static/js/2.3ace06e2.chunk.js",
-    "static/css/main.fc984ab8.chunk.css",
-    "static/js/main.af7e2203.chunk.js"
+    "static/css/main.472e1cf0.chunk.css",
+    "static/js/main.af856a52.chunk.js"
   ]
 }
